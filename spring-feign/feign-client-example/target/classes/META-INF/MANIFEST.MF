@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: glclo
+Build-Jdk: 17.0.1
+Implementation-Title: feign-client-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.javadevjournal
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/feign-client-example
+Created-By: Maven Integration for Eclipse
+
